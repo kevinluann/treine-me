@@ -1,9 +1,20 @@
-* {
+:root {
+   --font-family1: "Mulish", sans-serif;
+   --font-family2: "Open Sans", sans-serif;
+}
+
+body {
+   font-family: var(--font-family2);
+   color: #1F1534;
    margin: 0;
-   padding: 0;
 }
 
 .page {
    width: 1000px;
    margin: 65px auto 0;
+}
+
+a {
+   text-decoration: none;
+   color: inherit;
 }
