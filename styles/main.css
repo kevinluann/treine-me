@@ -25,7 +25,21 @@ main {
    }
 
    button {
+      display: flex;
       text-transform: uppercase;
       font-family: var(--font-family2);
+      color: white;
+      background-color: #69B99D;
+      border: none;
+      justify-content: center;
+      align-items: center;
+      padding: 14px 32px 15px;
+      gap: 10px;
+      border-radius: 4px;
+      cursor: pointer;
+
+      &:hover {
+         background-color: #4ea788;
+      }
    }
 }
