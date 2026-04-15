@@ -1,4 +1,8 @@
 main {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+
    h1 {
       font-family: var(--font-family1);
       font-size: 49px;
@@ -17,6 +21,7 @@ main {
       font-size: 14px;
       line-height: 28px;
       color: #7D7987;
+      margin-block: 40px;
    }
 
    button {
