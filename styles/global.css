@@ -1,11 +1,17 @@
 :root {
    --font-family1: "Mulish", sans-serif;
    --font-family2: "Open Sans", sans-serif;
+   
+   --primary-color: #1F1534;
+   --secondary-color: #89C5CC;
+   --color-action: #69B99D;
+   --color-action-hover: #4ea788;
+   --color-light: #7D7987;
 }
 
 body {
    font-family: var(--font-family2);
-   color: #1F1534;
+   color: var(--primary-color);
    margin: 0;
    background: linear-gradient(180deg, rgba(227, 255, 248, 0) 82.08%, rgba(227, 255, 248, 0.38) 100%);
    min-height: 100vh;

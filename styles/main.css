@@ -8,11 +8,11 @@ main {
       font-size: 49px;
       line-height: 56px;
       font-weight: normal;
-      color: #1F1534;
+      color: var(--primary-color);
       width: 490px;
-   
+
       span {
-         color: #89C5CC;
+         color: var(--secondary-color);
          font-weight: bold;
       }
    }
@@ -20,7 +20,7 @@ main {
    p {
       font-size: 14px;
       line-height: 28px;
-      color: #7D7987;
+      color: var(--color-light);
       margin-block: 40px;
    }
 
@@ -29,7 +29,7 @@ main {
       text-transform: uppercase;
       font-family: var(--font-family2);
       color: white;
-      background-color: #69B99D;
+      background-color: var(--color-action);
       border: none;
       justify-content: center;
       align-items: center;
@@ -39,7 +39,7 @@ main {
       cursor: pointer;
 
       &:hover {
-         background-color: #4ea788;
+         background-color: var(--color-action-hover);
       }
    }
 }

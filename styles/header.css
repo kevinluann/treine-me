@@ -10,7 +10,7 @@ header {
       gap: 48px;
       font-family: var(--font-family1);
 
-      & > li > a {
+      &>li>a {
          opacity: 0.5;
       }
    }
