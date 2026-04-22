@@ -4,7 +4,7 @@
 
 # Treine.me
 
-<img width="800" alt="treine-me-preview (1)" src="https://github.com/user-attachments/assets/85dabd8c-4e1e-4126-af26-a326b4bdea1f" />
+<img width="1200" alt="treine-me-preview (1)" src="https://github.com/user-attachments/assets/85dabd8c-4e1e-4126-af26-a326b4bdea1f" />
 
 **Página única** de plataforma de treinos, desenvolvida com HTML5 e CSS3.
 
